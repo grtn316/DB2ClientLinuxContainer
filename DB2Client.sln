@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB2Client", "DB2Client\DB2Client.csproj", "{ECA778A9-DCFE-480B-BCB3-A47888EB4837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA778A9-DCFE-480B-BCB3-A47888EB4837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA778A9-DCFE-480B-BCB3-A47888EB4837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA778A9-DCFE-480B-BCB3-A47888EB4837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA778A9-DCFE-480B-BCB3-A47888EB4837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CF08F0-341F-47D1-8130-BCBF36774B6B}
+	EndGlobalSection
+EndGlobal
